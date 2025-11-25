@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.1.13",
+  "latest_version": "1.1.13-hotfix",
   "changelogs": {
     "1.0.0": [
       "Initial Release",
@@ -29,6 +29,9 @@
       "Fixed animations loops",
       "Fixed client utils file",
       "Added missing busy sound to preset1"
+    ],
+    "1.1.13-hotfix": [
+      "Fixed an issue where the panic button dispatch notification was triggered multiple times based on the number of players in the channel."
     ]
   }
 }
