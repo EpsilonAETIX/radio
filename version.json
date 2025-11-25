@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.1.12",
+  "latest_version": "1.1.13",
   "changelogs": {
     "1.0.0": [
       "Initial Release",
@@ -24,6 +24,10 @@
     "1.1.12": [
       "Fixed server/utils.lua load problem",
       "Cleared unused prints"
+    ],
+    "1.1.13": [
+      "Fixed animations loops",
+      "Fixed client utils file"
     ]
   }
 }
