@@ -27,7 +27,8 @@
     ],
     "1.1.13": [
       "Fixed animations loops",
-      "Fixed client utils file"
+      "Fixed client utils file",
+      "Added missing busy sound to preset1"
     ]
   }
 }
