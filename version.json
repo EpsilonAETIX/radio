@@ -7,31 +7,35 @@
       "Implemented voice system integration"
     ],
     "1.0.1": [
-      "Fixed battery drain issue",
+      "[FIXED] battery drain issue",
       "Added new UI sounds",
       "Optimized server performance"
     ],
     "1.1.0": [
-      "Added RealTimeClock support",
-      "New UI design for radio screen",
-      "Added GitHub version checker",
-      "Fixed minor bugs in channel switching"
+      "[ADDED] Real time clock support",
+      "[ADDED] New UI design for radio screen",
+      "[ADDED] GitHub version checker",
+      "[FIXED] minor bugs in channel switching"
     ],
     "1.1.1": [
-      "Fixed submix parameters",
-      "Added settings to home menu"
+      "[FIXED] submix parameters",
+      "[ADDED] settings to home menu"
     ],
     "1.1.12": [
-      "Fixed server/utils.lua load problem",
+      "[FIXED] server/utils.lua load problem",
       "Cleared unused prints"
     ],
     "1.1.13": [
-      "Fixed animations loops",
-      "Fixed client utils file",
-      "Added missing busy sound to preset1"
+      "[FIXED] animations loops",
+      "[FIXED] client utils file",
+      "[ADDED] missing busy sound to preset1"
     ],
     "1.1.13-hotfix": [
-      "Fixed an issue where the panic button dispatch notification was triggered multiple times based on the number of players in the channel."
+      "[FIXED] an issue where the panic button dispatch notification was triggered multiple times based on the number of players in the channel."
+    ],
+    "1.1.14": [
+      "[FIXED] freq_hi submix parameter not registering.",
+      "[FIXED] sort function on utils"
     ]
   }
 }
