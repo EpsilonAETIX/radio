@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.1.13-hotfix",
+  "latest_version": "1.1.15",
   "changelogs": {
     "1.0.0": [
       "Initial Release",
@@ -36,6 +36,14 @@
     "1.1.14": [
       "[FIXED] freq_hi submix parameter not registering.",
       "[FIXED] sort function on utils"
+    ],
+    "1.1.15": [
+      "[ADDED] Focus Mode (movement while radio is open)",
+      "[ADDED] Incoming/Outgoing icons",
+      "[ADDED] /setradio command for standalone servers.",
+      "[FIXED] saveSettings 404 error",
+      "[CHANGED] Refactored inventory bridge",
+      "[CHANGED] Animation sync with Focus Mode"
     ]
   }
 }
