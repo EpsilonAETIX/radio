@@ -47,6 +47,20 @@
     ],
     "1.1.15-hotfix": [
       "[FIXED] tgiann-inventory AddItem function"
+    ],
+    "1.1.16": [
+      "[ADDED] Standalone mode improvements - radio requires /setradio before use",
+      "[ADDED] OpenRadio keybind in Config (Config.Keybinds.OpenRadio)",
+      "[ADDED] lib.addCommand for /setradio with proper locale support",
+      "[ADDED] NUI focus with game controls (SetNuiFocusKeepInput)",
+      "[ADDED] closeRadio NUI callback for power off functionality",
+      "[CHANGED] /giveradio command disabled in standalone mode (no inventory)",
+      "[CHANGED] /radio command removed - use keybind instead",
+      "[CHANGED] AutoConnect disabled for standalone mode",
+      "[CHANGED] ESC now hides radio completely",
+      "[CHANGED] Focus keybind toggles NUI focus while keeping radio visible",
+      "[FIXED] Radio auto-opening on player load in standalone mode",
+      "[FIXED] Mouse look, attack, and aim controls disabled when radio is focused"
     ]
   }
 }
