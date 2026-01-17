@@ -69,6 +69,7 @@
       "[ADDED] Mic Clicks Settings",
       "[ADDED] Auto-Connect Control",
       "[FIXED] ESC Key Issue",
+      "[FIXED] Issue when player disconnects/crashes while talking, sets channel still someone transmitting",
       "[CHANGED] Config Structure"
     ]
   }
