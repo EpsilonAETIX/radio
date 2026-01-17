@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.1.16",
+  "latest_version": "1.2.0",
   "changelogs": {
     "1.0.0": [
       "Initial Release",
@@ -63,6 +63,13 @@
       "[FIXED] Radio auto-opening on player load in standalone mode",
       "[FIXED] Mouse look, attack, and aim controls disabled when radio is focused",
       "[REMOVED] Quasar Inventory support removed."
+    ],
+    "1.2.0": [
+      "[ADDED] Channel Player List feature",
+      "[ADDED] Mic Clicks Settings",
+      "[ADDED] Auto-Connect Control",
+      "[FIXED] ESC Key Issue",
+      "[CHANGED] Config Structure"
     ]
   }
 }
